@@ -15,10 +15,11 @@ Better than Khan Academy, AOPS, IXL, and all of those scams.
 
 Price:
 
-Light (512MB) = $4.99 per month
-Basic (2GB) = $8.99 per month
-Supreme (5GB) = $14.99 per month
-Galatic (16GB) = $24.99 per month 
-
+<ul>
+  <li>Light (512MB) = $4.99 per month</li>
+  <li>Basic (2GB) = $8.99 per month</li>
+  <li>Supreme (5GB) = $14.99 per month</li>
+  Galatic (16GB) = $24.99 per month</li>
+</ul>
 
 Have fun learning! 
