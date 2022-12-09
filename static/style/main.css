@@ -296,7 +296,7 @@ svg rect {
 
 .nebHeader {
 	font-family: var(--navbar-font);
-	color: var(--navbar-text-color);
+	color: #6783dd;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -467,6 +467,7 @@ input:focus::placeholder {
 
 .logo {
 	max-width: 15px;
+	max-height: 15px;
 	display: block;
 }
 
