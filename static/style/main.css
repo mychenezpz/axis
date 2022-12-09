@@ -13,7 +13,7 @@
 	--input-background-color: #100942;
 	--input-border-color: #eb6f92;
 	--input-border-size: 1.3px;
-	--navbar-logo-filter: none;
+	--navbar-.logo-filter: none;
 }
 
 ::-webkit-input-placeholder {
@@ -466,9 +466,8 @@ input:focus::placeholder {
 }
 
 .logo {
-	width: 15px;
-	height: 15px;
-	display: block;
+	width: 10px;
+	height: 10px;
 }
 
 small {
