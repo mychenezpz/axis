@@ -9,8 +9,8 @@
 	--navbar-link-color: #e0def4;
 	--navbar-font: "Roboto";
 	--input-text-color: #e0def4;
-	--input-placeholder-color: white;
-	--input-background-color: #1f1d2e;
+	--input-placeholder-color: #ffffff;
+	--input-background-color: #100942;
 	--input-border-color: #eb6f92;
 	--input-border-size: 1.3px;
 	--navbar-logo-filter: none;
@@ -279,7 +279,7 @@ svg rect {
 }
 
 .connector {
-	color: white;
+	color: #ffffff;
 	margin-left: 10px;
 	font-size: 15px;
 }
@@ -352,7 +352,7 @@ input:focus::placeholder {
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
 	font-weight: lighter;
-	color: whitesmoke;
+	color: #ffffff;
 	opacity: 90%;
 	user-select: none;
 	font-size: 13px;
@@ -369,7 +369,7 @@ input:focus::placeholder {
 	font-family: 'Montserrat', sans-serif;
 	font-style: italic;
 	font-weight: lighter;
-	color: whitesmoke;
+	color: #ffffff;
 	opacity: 38%;
 	user-select: none;
 	font-size: 13px;
@@ -428,7 +428,7 @@ input:focus::placeholder {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 2em;
-	background: white;
+	background: #ffffff;
 }
 
 .modal-window header {
@@ -466,16 +466,16 @@ input:focus::placeholder {
 }
 
 .logo {
-	max-width: 25px;
+	max-width: 15px;
 	display: block;
 }
 
 small {
-	color: lightgray;
+	color: #d3d3d3;
 }
 
 .btn {
-	background-color: white;
+	background-color: #ffffff;
 	padding: 1em 1.5em;
 	border-radius: 0.5rem;
 	text-decoration: none;
