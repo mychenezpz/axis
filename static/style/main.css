@@ -465,11 +465,6 @@ input:focus::placeholder {
 	margin-bottom: 15px;
 }
 
-.logo {
-	width: 10px;
-	height: 10px;
-}
-
 small {
 	color: #d3d3d3;
 }
