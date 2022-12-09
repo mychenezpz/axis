@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap');
 
 :root {
-	--background-primary: #191724;
-	--navbar-color: #26233a;
+	--background-primary: #100452;
+	--navbar-color: #120566;
 	--navbar-height: 60px;
-	--navbar-text-color: #7967dd;
+	--navbar-text-color: #6783dd;
 	--navbar-link-color: #e0def4;
 	--navbar-font: "Roboto";
 	--input-text-color: #e0def4;
