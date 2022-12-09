@@ -19,7 +19,7 @@ Price:
   <li>Light (512MB) = $4.99 per month</li>
   <li>Basic (2GB) = $8.99 per month</li>
   <li>Supreme (5GB) = $14.99 per month</li>
-  Galatic (16GB) = $24.99 per month</li>
+  <li>Galatic (16GB) = $24.99 per month</li>
 </ul>
 
 Have fun learning! 
