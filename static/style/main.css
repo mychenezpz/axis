@@ -466,8 +466,8 @@ input:focus::placeholder {
 }
 
 .logo {
-	max-width: 15px;
-	max-height: 15px;
+	width: 15px;
+	height: 15px;
 	display: block;
 }
 
